@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TDC_EndToEnd_Test/TDC_EndToEnd_Test.iml" filepath="$PROJECT_DIR$/TDC_EndToEnd_Test/TDC_EndToEnd_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDC_Experiment_Split_Test/TDC_Experiment_Split_Test.iml" filepath="$PROJECT_DIR$/TDC_Experiment_Split_Test/TDC_Experiment_Split_Test.iml" />
     </modules>
   </component>
 </project>

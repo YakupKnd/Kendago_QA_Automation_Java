@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TDC_EndToEnd_Test" />
+        <module name="TDC_Experiment_Split_Test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="TDC_EndToEnd_Test" target="11" />
+      <module name="TDC_Experiment_Split_test" target="11" />
+      <module name="TDC_Experiment_Split_Test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

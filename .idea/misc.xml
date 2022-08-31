@@ -4,7 +4,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/TDC_EndToEnd_Test/pom.xml" />
+        <option value="$PROJECT_DIR$/TDC_Experiment_Split_Test/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/TDC_EndToEnd_Test/TDC_Experiment_Split_test/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
