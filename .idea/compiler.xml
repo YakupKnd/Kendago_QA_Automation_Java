@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TDC_EndToEnd_Test" target="1.5" />
+      <module name="TDC_EndToEnd_Test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
